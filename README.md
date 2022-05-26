@@ -334,6 +334,7 @@ Check out all of the submissions below! Well done everyone!
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/pic-in-pic-1.0) | [View Live](https://dwightmckenzie.github.io/pic-in-pic-1.0/)
 - Rahul - [Github](https://github.com/rachirah/beliveYourSelf) || [Go Live](https://rachirah.github.io/beliveYourSelf/)
 - bergstenarn - [Github](https://github.com/bergstenarn/picture-in-picture) | [View Live](https://bergstenarn.github.io/picture-in-picture/index.html)
+- Victor Freitas - [Github](https://github.com/victorphreitas/picture-in-picture) | [View Live](https://victorphreitas.github.io/picture-in-picture/index.html)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
@@ -413,6 +414,7 @@ Check out all of the submissions below! Well done everyone!
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/light-dark-mode-1.0) | [View Live](https://dwightmckenzie.github.io/light-dark-mode-1.0/)
 - Rahul - [Github](https://github.com/rachirah/website) || [Go Live](https://rachirah.github.io/website/)
 - bergstenarn - [Github](https://github.com/bergstenarn/light-dark-mode) | [View Live](https://bergstenarn.github.io/light-dark-mode/index.html)
+- Victor Freitas - [Github](https://github.com/victorphreitas/dark-light-project) | [View Live](https://victorphreitas.github.io/dark-light-project/index.html)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
