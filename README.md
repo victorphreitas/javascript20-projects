@@ -442,6 +442,7 @@ Check out all of the submissions below! Well done everyone!
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/animated-template-1.0) | [View Live](https://dwightmckenzie.github.io/animated-template-1.0/)
 - bergstenarn - [Github](https://github.com/bergstenarn/animated-template) | [View Live](https://bergstenarn.github.io/animated-template/index.html)
+- Victor Freitas - [Github](https://github.com/victorphreitas/portifolio1) | [View Live](https://victorphreitas.github.io/portifolio1/index.html)
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
